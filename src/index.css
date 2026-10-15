@@ -1,0 +1,3 @@
+/* Global reset and base styles are maintained in src/styles/App.css. */
+:root { font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { margin: 0; }
